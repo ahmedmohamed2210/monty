@@ -140,11 +140,3 @@ Example 2
 Output
 
     5
-
-## AUTHOR(s)
-
-This program was written by `FourtyThree43`.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
